@@ -17,3 +17,4 @@ What I Learned
 - Trunk configuration
 - Inter-VLAN routing setup
 
+<img width="1304" height="708" alt="Screenshot 2026-02-14 192115" src="https://github.com/user-attachments/assets/accc2e78-9576-491a-9ae3-02c23eecdaff" />
