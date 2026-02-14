@@ -1,11 +1,11 @@
 A simple Cisco Packet Tracer lab based on IPCisco's VLAN configuration tutorial, extended by implementing a Multilayer Switch to enable communication between multiple VLANs.
 
 VLANs
-VLAN 10 - Accounting
-VLAN 20 - HR
-VLAN 30 - R&D
+- VLAN 10 - Accounting
+- VLAN 20 - HR
+- VLAN 30 - R&D
 
-Features
+Key Concepts Demonstrated
 - VLAN creation and assignment
 - Trunk configuration
 - Inter-VLAN routing
