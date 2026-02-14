@@ -1,8 +1,4 @@
-
-Inter-VLAN Routing via Multilayer Switch
-
-Overview
-A simple Cisco Packet Tracer lab based on IPCisco's VLAN configuration tutorial, extended by adding Inter-VLAN routing to enable communication between multiple VLANs.
+A simple Cisco Packet Tracer lab based on IPCisco's VLAN configuration tutorial, extended by implementing a Multilayer Switch to enable communication between multiple VLANs.
 
 VLANs
 VLAN 10 - Accounting
@@ -16,12 +12,14 @@ Features
 - Basic IP addressing and connectivity testing
 
 Result
-All hosts within the same VLAN can communicate, and inter-VLAN communication is handled directly by the multilayer switch
+- All hosts within the same VLAN can communicate, and inter-VLAN communication is handled directly by the multilayer switch
 
 What I Learned
 - VLAN segmentation
 - Trunk configuration
 - Inter-VLAN routing setup
+
+Topology
 
 <img width="1290" height="699" alt="Screenshot 2026-02-14 192257" src="https://github.com/user-attachments/assets/b8580c5d-4d78-4d44-95de-c2d7d27fe81d" />
 
